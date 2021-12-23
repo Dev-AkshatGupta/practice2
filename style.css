@@ -1,0 +1,4 @@
+body{
+    /* background: linear-gradient(90deg,black,white,red) */
+    background: radial-gradient(circle,green,yellow ,black);
+}
